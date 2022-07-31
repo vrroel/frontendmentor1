@@ -72,6 +72,7 @@ img {
 .order-title {
   font-size: 1.8rem;
   font-weight: 900;
+  color: red;
 }
 
 .order-text {
